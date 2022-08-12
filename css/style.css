@@ -1,5 +1,9 @@
 body {
-    background-color: navy;
+    background-color: tan;
+}
+
+table, td, thead, tr {
+    border: solid
 }
 
 
